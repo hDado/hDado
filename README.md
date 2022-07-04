@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hDado
-- 👀 I’m interested in web scraping / data analysis / web developement / problem solving / project idea
+- 👀 I’m interested in web scraping / data analysis / web developement (Django) / problem solving / project idea
 - 🌱 I’m currently learning scrapy / web scraping / javascript / python
 - 💞️ I’m looking to collaborate on data enginnering project / data science / project-business  idea
 - 📫 How to reach me : mail : azzouzhamza13@gmail.com
