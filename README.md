@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hDado
+- 👋 Hi, I’m Hamza 
 - 👀 I’m interested in web scraping / data analysis / web developement (Flask / Django) / problem solving / project idea
 - 🌱 I’m currently learning web / javascript / python
       2022 : Udacity FullStack roadmap : Flask - sqlalchemy ORM - API - AUTH0 - DOCKER & Kubernities - AWS - 
